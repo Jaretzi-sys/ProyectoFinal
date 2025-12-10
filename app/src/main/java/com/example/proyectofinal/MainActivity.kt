@@ -8,7 +8,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
-import com.example.proyectofina3.databinding.ActivityMainBinding
+import com.example.proyectofinal.databinding.ActivityMainBinding
 import com.parse.ParseUser
 import kotlinx.coroutines.launch
 

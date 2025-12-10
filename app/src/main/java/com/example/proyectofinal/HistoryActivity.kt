@@ -7,7 +7,7 @@ import android.widget.ArrayAdapter
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
-import com.example.proyectofina3.databinding.ActivityHistoryBinding
+import com.example.proyectofinal.databinding.ActivityHistoryBinding
 import com.parse.ParseUser
 import kotlinx.coroutines.launch
 import java.text.SimpleDateFormat
