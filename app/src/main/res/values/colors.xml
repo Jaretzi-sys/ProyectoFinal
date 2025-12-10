@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#1A1A2E</color>
+    <color name="background_medium">#2C2C54</color>
+    <color name="color_fondo_madera_clara">#D4BF9A</color>
+    <color name="color_pergamino_claro">#F5F5DC</color>
+    <color name="color_tapete_juego">#556B2F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="color_principal_madera">#8B4513</color>
+    <color name="color_acento_dorado">#C2B280</color>
+    <color name="color_texto_oscuro">#2F241F</color>
+    <color name="error_color">#A52A2A</color>
+    <color name="success_color">#4CAF50</color>
+    <color name="primary_color">@color/color_principal_madera</color>
+    <color name="secondary_color">@color/color_tapete_juego</color>
+    <color name="accent_color">@color/color_acento_dorado</color>
+    <color name="color_fondo_madera">#D4BF9A</color>
+</resources>
